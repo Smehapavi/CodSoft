@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+	background-color: lavender;
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+header h1 {
+	font-size: 3rem;
+	margin: 0;
+}
+
+header p {
+	font-size: 1.2rem;
+	margin: 0;
+}
+
+main {
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 30px;
+}
+
+section h2 {
+	font-size: 2rem;
+	margin-top: 0;
+}
+
+section p {
+	font-size: 1.1rem;
+	line-height: 1.5;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+blockquote {
+	border-left: 5px solid #ccc;
+	margin: 20px 0;
+	padding-left: 10px;
+}
+
+blockquote p {
+	font-style: italic;
+	margin: 0;
+}
+
+blockquote footer {
+	font-size: 0.9rem;
+	margin-top: 5px;
+}
+
+footer {
+	background-color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+footer p {
+	font-size: 0.9rem;
+	margin: 0;
+}
+	<title>Mother Teresa Tribute Page</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+      </style>
+</head>
+<body>
+	<header>
+		<h1>Mother Teresa: A Life of Love and Service</h1>
+		<p>A tribute to a remarkable woman who dedicated her life to serving the poor and destitute.</p>
+	</header>
+	<main>
+		<section id="early-life">
+			<h2>Early Life</h2>
+			<p>Mother Teresa was born Anjezë Gonxhe Bojaxhiu on August 26, 1910, in Skopje, Macedonia. She was the youngest of three children in a family of Albanian descent. At the age of 12, she felt called to religious life and joined the Sisters of Loreto in Ireland at the age of 18.</p>
+		</section>
+		<section id="missionary-work">
+			<h2>Missionary Work</h2>
+			<p>In 1929, Mother Teresa began her missionary work in India, where she taught at St. Mary's High School in Calcutta. In 1948, she received permission from the Vatican to start her own order, the Missionaries of Charity, which was dedicated to helping the poor, the sick, and the dying.</p>
+		</section>
+		<section id="awards-and-honors">
+			<h2>Awards and Honors</h2>
+			<ul>
+				<li><strong>1962</strong> - Ramon Magsaysay Award for International Understanding</li>
+				<li><strong>1971</strong> - Pope John XXIII Peace Prize</li>
+				<li><strong>1979</strong> - Nobel Peace Prize</li>
+				<li><strong>1985</strong> - Presidential Medal of Freedom</li>
+				<li><strong>2016</strong> - Canonized as a saint by the Catholic Church</li>
+			</ul>
+		</section>
+		<section id="quotes">
+			<h2>Quotes</h2>
+			<blockquote>
+				<p>"If you judge people, you have no time to love them."</p>
+				<footer>- Mother Teresa</footer>
+			</blockquote>
+			<blockquote>
+				<p>"Spread love everywhere you go. Let no one ever come to you without leaving happier."</p>
+				<footer>- Mother Teresa</footer>
+			</blockquote>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 Mother Teresa Tribute Page. All rights reserved.</p>
+	</footer>
+</body>
+</html>
